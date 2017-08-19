@@ -1,2 +1,5 @@
 # sdd2owl
-sdd2owl python script
+
+store required prefixes in prefixes.txt file
+
+Usage: python SDD2OWL.py <SDD_file> [ <data_file> ] [ <codebook_file> ] [ <output_file> ]
